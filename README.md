@@ -1,6 +1,6 @@
-# Telegram Spam
+# DualBot
 
-TelegramSpam is a tool made in python that allows you to send messages to a channel as long as you have the bot token and channel id, it is made for educational purposes
+Simple tool that allows you to perform several actions in Discord or Telegram (I am not responsible for the misuse of this tool)
 
 ## Installation
 
